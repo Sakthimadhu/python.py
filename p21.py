@@ -1,6 +1,7 @@
 x=str(input()) 
-l=["saturday","sunday"] 
+l=["Saturday","Sunday"] 
 if x in l: 
     print("yes") 
 else: 
   print("no")    
+
